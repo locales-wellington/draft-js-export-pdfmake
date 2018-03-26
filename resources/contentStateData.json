@@ -205,9 +205,36 @@
     },
     {
       "key": "aqbh6",
-      "text": "Detraxit consequat et quo num tendi nada.Vehicula non. ",
+      "text": "Indented list item Detraxit consequat tendi nada.Vehicula non. ",
       "type": "unordered-list-item",
-      "depth": 0,
+      "depth": 1,
+      "inlineStyleRanges": [],
+      "entityRanges": [],
+      "data": {}
+    },
+    {
+      "key": "aqbh2",
+      "text": "Indented list item  num tendi nada.Vehicula non. ",
+      "type": "unordered-list-item",
+      "depth": 4,
+      "inlineStyleRanges": [],
+      "entityRanges": [],
+      "data": {}
+    },
+    {
+      "key": "aqbh9",
+      "text": "Indented list item Detraxit cons tendi nada.Vehicula non. ",
+      "type": "unordered-list-item",
+      "depth": 2,
+      "inlineStyleRanges": [],
+      "entityRanges": [],
+      "data": {}
+    },
+    {
+      "key": "aqbfg1",
+      "text": "Indented list item Detraxit consequat et quodi nada.Vehicula non. ",
+      "type": "unordered-list-item",
+      "depth": 3,
       "inlineStyleRanges": [],
       "entityRanges": [],
       "data": {}
@@ -225,7 +252,7 @@
       "key": "593fg",
       "text": "Vivamus sit amet nibh non tellus tristique interdum. ",
       "type": "unordered-list-item",
-      "depth": 0,
+      "depth": 4,
       "inlineStyleRanges": [],
       "entityRanges": [],
       "data": {}
@@ -265,9 +292,9 @@
     },
     {
       "key": "9heeu",
-      "text": "Casamentiss faiz malandris se pirulitá.",
+      "text": "List item with indent Casamentiss faiz malandris se pirulitá.",
       "type": "ordered-list-item",
-      "depth": 0,
+      "depth": 1,
       "inlineStyleRanges": [
         {
           "offset": 11,
@@ -295,7 +322,7 @@
     },
     {
       "key": "a531g",
-      "text": "Quem num gosta di mim que vai caçá sua turmis! ",
+      "text": " Quem num gosta di mim que vai caçá sua turmis! ",
       "type": "header-two",
       "depth": 0,
       "inlineStyleRanges": [],
