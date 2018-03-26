@@ -10,7 +10,7 @@ class StateToPdfMake {
         this.output = { content: [] };
         this.blocks = null;
         this.listOlAcc = [];
-        this.listUlAcc = [];
+        this.listUlAcc = { ul: [] };
     }
 
     generate() {
@@ -209,6 +209,7 @@ class StateToPdfMake {
     }
 
     _updateAndResetUlList() {
+        console.log(this.listUlAcc);
         this.output.content.push(this.listUlAcc);
         this.listUlAcc = { ul: [] };
     }
